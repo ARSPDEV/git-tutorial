@@ -1,0 +1,17 @@
+@font-face {
+  font-family: vazir;
+  src: url("/assets/webfonts/fa-brands-400.woff2") format("woff");
+  src: url("/assets/webfonts/fa-regular-400.woff2") format("woff2");
+  src: url("/assets/webfonts/Vazir.ttf") format("truetype");
+  font-display: swap;
+  font-style: normal;
+}
+* {
+  font-family: vazir;
+}
+html {
+  scroll-behavior: smooth;
+}
+body {
+  direction: rtl;
+}
