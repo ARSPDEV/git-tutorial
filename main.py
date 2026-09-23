@@ -1,2 +1,3 @@
 username = input("please enter username : ")
-print(username);
+password = input("please enter password : ")
+print(username,password);
